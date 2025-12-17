@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hi, I'm Sandesh
 
-<!--
-**sandeshpawar10/sandeshpawar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning Git, GitHub, Web Development, and c++ DSA  
+💡 Exploring HTML, CSS, JavaScript,Node js and building small projects  
+💻 I enjoy solving problems and writing clean code  
+🚀 Interested in open-source and hackathons  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tools & Technologies I Use
+
+- Languages: c++, JavaScript, HTML, CSS  
+- Tools: Git, GitHub, VS Code, POSTMAN
+- Backend: Node js
+- Backend (Framework): Express 
+
+---
+
+🔭 Presently I'm Working On
+
+- DSA in c++
+- SQL(Postgres) 
+- Node js
+- Javascript 
