@@ -21,4 +21,5 @@
 - DSA in c++
 - SQL(Postgres) 
 - Node js
-- Javascript 
+- Javascript
+- MongoDB
