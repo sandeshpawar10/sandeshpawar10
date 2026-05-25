@@ -18,7 +18,7 @@
 
 🔭 Presently I'm Working On
 
-- DSA in c++
+- DSA in C++
 - React
 - SQL(Postgres) 
 - Node js
